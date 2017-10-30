@@ -1,0 +1,1 @@
+C:\Users\SL-Th\Source\Repos\XamarinNetStandard\XamarinNetStandard\XamarinNetStandard.UWP\XamarinNetStandard.UWP.csproj;x86

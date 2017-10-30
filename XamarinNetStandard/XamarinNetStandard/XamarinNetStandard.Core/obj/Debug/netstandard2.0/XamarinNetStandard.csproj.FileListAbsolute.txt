@@ -1,0 +1,10 @@
+C:\Users\SL-Th\Source\Repos\XamarinNetStandard\XamarinNetStandard\XamarinNetStandard.Core\bin\Debug\netstandard2.0\XamarinNetStandard.deps.json
+C:\Users\SL-Th\Source\Repos\XamarinNetStandard\XamarinNetStandard\XamarinNetStandard.Core\bin\Debug\netstandard2.0\XamarinNetStandard.dll
+C:\Users\SL-Th\Source\Repos\XamarinNetStandard\XamarinNetStandard\XamarinNetStandard.Core\bin\Debug\netstandard2.0\XamarinNetStandard.pdb
+C:\Users\SL-Th\Source\Repos\XamarinNetStandard\XamarinNetStandard\XamarinNetStandard.Core\obj\Debug\netstandard2.0\XamarinNetStandard.csproj.CoreCompileInputs.cache
+C:\Users\SL-Th\Source\Repos\XamarinNetStandard\XamarinNetStandard\XamarinNetStandard.Core\obj\Debug\netstandard2.0\XamarinNetStandard.App.xaml.g.cs
+C:\Users\SL-Th\Source\Repos\XamarinNetStandard\XamarinNetStandard\XamarinNetStandard.Core\obj\Debug\netstandard2.0\XamarinNetStandard.MainPage.xaml.g.cs
+C:\Users\SL-Th\Source\Repos\XamarinNetStandard\XamarinNetStandard\XamarinNetStandard.Core\obj\Debug\netstandard2.0\XamarinNetStandard.AssemblyInfoInputs.cache
+C:\Users\SL-Th\Source\Repos\XamarinNetStandard\XamarinNetStandard\XamarinNetStandard.Core\obj\Debug\netstandard2.0\XamarinNetStandard.AssemblyInfo.cs
+C:\Users\SL-Th\Source\Repos\XamarinNetStandard\XamarinNetStandard\XamarinNetStandard.Core\obj\Debug\netstandard2.0\XamarinNetStandard.dll
+C:\Users\SL-Th\Source\Repos\XamarinNetStandard\XamarinNetStandard\XamarinNetStandard.Core\obj\Debug\netstandard2.0\XamarinNetStandard.pdb
