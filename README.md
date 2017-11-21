@@ -28,7 +28,7 @@ Here you can check the compatibility of your installd versions:
 ![Create Xamarin project](Images/CreateNetStandardProject.png)
 
 * Create .Net Standard Library project
-* Copy App.xaml and MainPage.xaml to new .Net Satndard project
+* Copy App.xaml and MainPage.xaml to new .Net Standard project
 * Remove old PCL project
 * Choose .Net Standard in Properties of NetStandard project
 * Edit .csproj file of .Net Standard project
